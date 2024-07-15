@@ -289,17 +289,17 @@ local suc, err = pcall(function()
 			if not HubMode then
 				print([[
 
-   ________  __________    ____  _   ________
-  / ____/\ \/ / ____/ /   / __ \/ | / / ____/
- / /      \  / /   / /   / / / /  |/ / __/   
-/ /___    / / /___/ /___/ /_/ / /|  / /___   
-\____/   /_/\____/_____/\____/_/ |_/_____/   
+                               ________  __________    ____  _   ________
+                              / ____/\ \/ / ____/ /   / __ \/ | / / ____/
+                             / /      \  / /   / /   / / / /  |/ / __/   
+                            / /___    / / /___/ /___/ /_/ / /|  / /___   
+                            \____/   /_/\____/_____/\____/_/ |_/_____/   
                                              
 				]])
 
-				print("You are using Finity version "..Version)
+				print("You are using Cyclone version "..Version)
 				print("")
-				print("If you want Help, Found a Bug with the GUI, Have a suggestion or Just enjoy Finity, Join our Discord Community: "..Discord.." :D")
+				print("This was made by cichijuwawaw, enjoy the script")
 
 			end
 		end)
